@@ -1,0 +1,16 @@
+{
+ "info": {
+  "title": "Server Setup",
+  "version": "1.0.0",
+  "description": "Demonstrating how to describe a RESTful API with Swagger"
+ },
+ "host": "localhost:4001",
+ "basePath": "/",
+ "swagger": "2.0",
+ "paths": {},
+ "definitions": {},
+ "responses": {},
+ "parameters": {},
+ "securityDefinitions": {},
+ "tags": []
+}
